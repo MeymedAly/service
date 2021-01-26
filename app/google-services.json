@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714516055656",
+    "firebase_url": "https://service-incident-urbains.firebaseio.com",
+    "project_id": "service-incident-urbains",
+    "storage_bucket": "service-incident-urbains.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714516055656:android:7b20cbbba50eed5d491ddd",
+        "android_client_info": {
+          "package_name": "com.example.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714516055656-mtd73963q038v449l1l98phit9702o89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.service",
+            "certificate_hash": "49b31f7d2028851b7f9e11987ac958fbd0418c76"
+          }
+        },
+        {
+          "client_id": "714516055656-8ko2enre1gthovlf5gds5uhlvlijn3tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7s4oUbaUepZC6D58wkkKg4RJsOT_dew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714516055656-8ko2enre1gthovlf5gds5uhlvlijn3tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
